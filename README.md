@@ -1,2 +1,0 @@
-# Calculadora
-calculadora desenvolvida javascrip
